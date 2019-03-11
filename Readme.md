@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Игорь Лавринов](https://up.htmlacademy.ru/htmlcss/24/user/614545).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Кан](https://htmlacademy.ru/profile/viktorkan).
 
 ---
 
